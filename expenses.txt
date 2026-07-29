@@ -1,0 +1,9 @@
+Taxes: $3000.00
+Rent: $1200.00
+Insurance: $100.00           
+Utilities: $200.00
+Groceries: $400.00
+Entertainment: $75.00           
+Clothes: $90.00
+Miscellaneous: $125.00           
+Investments: $2000.00
